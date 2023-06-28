@@ -1,16 +1,9 @@
-# ecom
+# Flutter starter project
 
-A new Flutter project.
+A Flutter project built using Getx with home route and detail route.
 
-## Getting Started
+This project is a starting point for a Flutter application which you can use to start a project rather than using flutter default project i.e, counter app.
 
-This project is a starting point for a Flutter application.
+This project is built using the library [Getx](https://pub.dev/packages/get) with routing and controller.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can use this project and customize.
