@@ -1,6 +1,8 @@
+import 'package:ecom/controllers/detail_controller.dart';
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 
-class DetailRoute extends StatelessWidget {
+class DetailRoute extends GetView<DetailController> {
   const DetailRoute({super.key});
 
   @override
